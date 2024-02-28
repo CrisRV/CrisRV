@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello world! I'm Cristina 👋
 
-<!--
-**CrisRV/CrisRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working as a controller and a business analyst.
 
-Here are some ideas to get you started:
+Working day-to-day with data, I discover a new world full of interesting things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now, I'm here learning new things related to analytics.
+
+Here, I want to put my projects and also code related to Tableau and Power BI.
+
+If you are interested, you could reach me on linkedin: <a href=www.linkedin.com/in/crisrevellesv>Linkedin</a>
+
+
