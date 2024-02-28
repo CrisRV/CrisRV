@@ -8,6 +8,6 @@ Now, I'm here learning new things related to analytics.
 
 Here, I want to put my projects and also code related to Tableau and Power BI.
 
-If you are interested, you could reach me on linkedin: <a href=https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile>Linkedin</a>
+If you are interested, you could reach me on linkedin: <a href=https://www.linkedin.com/in/crisrevellesv>Linkedin</a>
 
 
