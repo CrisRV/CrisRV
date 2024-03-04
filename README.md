@@ -10,6 +10,11 @@ See my projects in:
 - Tableau
 - Power BI
 
-If you are interested, you could reach me on linkedin: <a href=https://www.linkedin.com/in/crisrevellesv>Linkedin</a>
+If you are interested, you could reach me on 
+<a href="https://www.linkedin.com/in/crisrevellesv">
+  <img height="32" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+
+
 
 
